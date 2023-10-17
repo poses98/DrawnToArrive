@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gravity
+  - Teleport_enter
+  - Teleport_exit
+  - Acceleration
+  - Acceleration_super
+  - Sticky_y
+  - Bouncy
+  - nextLevel
+  - End_Text
+  - Starter
+  - lifes_count
+  - stars_count
+  - pause_box
+  - play_button
+  - point
+  - level_text
+  - reverse_acceleration
+  - Level
+  - Level_star
+  - Portal
+  - Speed
+  - Mixed
+  - Normal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Foreground
+    uniqueID: 426309745
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 37dca5a250b6c68488f2fdc9352cd6f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3070722425220855569
+    second: bounce_resplandor_sprite_0
+  - first:
+      213: -8749478041916993652
+    second: bounce_resplandor_sprite_1
+  - first:
+      213: 37507522273490182
+    second: bounce_resplandor_sprite_2
+  - first:
+      213: -6206002383607184537
+    second: bounce_resplandor_sprite_3
+  - first:
+      213: 9077699612444365195
+    second: bounce_resplandor_sprite_4
+  - first:
+      213: -273091592833648364
+    second: bounce_resplandor_sprite_5
+  - first:
+      213: 5926398859089829366
+    second: bounce_resplandor_sprite_6
+  - first:
+      213: -3646796568851940976
+    second: bounce_resplandor_sprite_7
+  - first:
+      213: 1998832506241806972
+    second: bounce_resplandor_sprite_8
+  - first:
+      213: -2736107126950081784
+    second: bounce_resplandor_sprite_9
+  - first:
+      213: -5945950219201270703
+    second: bounce_resplandor_sprite_10
+  - first:
+      213: 2572090612331742848
+    second: bounce_resplandor_sprite_11
+  - first:
+      213: -3208818164300206205
+    second: bounce_resplandor_sprite_12
+  - first:
+      213: -6778667102758727144
+    second: bounce_resplandor_sprite_13
+  - first:
+      213: 2120703281669462220
+    second: bounce_resplandor_sprite_14
+  - first:
+      213: -496590880002713446
+    second: bounce_resplandor_sprite_15
+  - first:
+      213: -5545985959037224739
+    second: bounce_resplandor_sprite_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 215
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e6d48a12f84e14aa9a084a96badbd4
+      internalID: 3070722425220855569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 216
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231f0bc492cb794c9ab5bf1cb736f5a
+      internalID: -8749478041916993652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 57
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78d4144acbb804787bbbe3a57c2d4a
+      internalID: 37507522273490182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 216
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88866ff5c0673e4eb839b382c710e62
+      internalID: -6206002383607184537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a399918f8edc4d9b1b02f3f0356f9
+      internalID: 9077699612444365195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 216
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5096b385b959424292ea127b9548c64
+      internalID: -273091592833648364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 216
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79952048b0835c448a99ee5622994166
+      internalID: 5926398859089829366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 216
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ed77578dee23438b48908761ce947
+      internalID: -3646796568851940976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 202
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b132a1a035714498b6ba934b03f2f2
+      internalID: 1998832506241806972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 216
+        width: 13
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb671cc85c57724cb502dd454446e67
+      internalID: -2736107126950081784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 216
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14447b3760ab3943a2c3013af896391
+      internalID: -5945950219201270703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 216
+        width: 29
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eaab7ff15cbbe42b542ba34898341e
+      internalID: 2572090612331742848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 215
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38474c0ea742604487c56fc00b56b2f
+      internalID: -3208818164300206205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 216
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e413fffbd80fb47a124b1f34a28a95
+      internalID: -6778667102758727144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 216
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b62428dc8217843a09f1722f1ab848
+      internalID: 2120703281669462220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 89
+        width: 215
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6d77b848fa76f4397879c3fcb4814c
+      internalID: -496590880002713446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce_resplandor_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 89
+        width: 215
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171cbb226d79784d9973814c29fd1f5
+      internalID: -5545985959037224739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3248ecc5e2d5ecf44a4d9447fa066b2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
